@@ -1,1 +1,1 @@
-# Statistical-modeling---Linear-model-Analysis-of-variance-ANOVA-Predictions-and-Variable-Selectio
+# Statistical-modeling---Linear-model-Analysis-of-variance-ANOVA-Predictions-and-Variable-Selection
