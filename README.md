@@ -43,7 +43,7 @@ summary(philant.model1)
 ```
 
 ```{r}
-### Analysis of variance ANOVE
+### Analysis of variance ANOVA
 anova(philant.model1)
 anova(philant.model2)
 ```
