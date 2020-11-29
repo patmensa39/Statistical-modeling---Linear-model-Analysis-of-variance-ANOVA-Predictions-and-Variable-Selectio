@@ -19,7 +19,7 @@ theme: cerulean
 
 ```{r}
 ### Regression model 
-### Making a matrix scatter plot sing the Mtcars dataset
+### Making a matrix scatter plot using the Mtcars dataset
 mtcars.philant<-mtcars[, 1:7]
 mtcars.philant
 pairs(mtcars.philant)
